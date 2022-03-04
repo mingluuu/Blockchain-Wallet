@@ -11,4 +11,4 @@ streamlit run fintech_finder.py
 
 Below please see a sample of the Ganache Transactions page.
 
-<img src="Figures/ganache _transaction.png" width="500"/>
+<img src="Figures/ganache _transaction.png" width="1000"/>
