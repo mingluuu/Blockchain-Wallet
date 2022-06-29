@@ -1,4 +1,4 @@
-# FinTechBootcamp_Assignments_19
+# Blockchain Wallet
 
 **Overview**
 ----
@@ -28,7 +28,7 @@ pip install bip44
 
 **Instructions**
 ----
-## To start:
+**To start:**
 1. Download and install Ganache
 2. Open Ganache and copy MNEMONIC key to `.env`
 3. Simply run the following command in terminal under project directory.
